@@ -4,7 +4,7 @@ My name is Dom, and I grew up in the New York City area, but I say "howdy" and "
 
 As a creative thinker, I'm more adaptive than inventive:  I tinker with things and repurpose them, rather than starting from a blank slate.  And, yes, that includes tinkering with and repurposing ME and my skill set.
 
-In my adult life, I've worked professionally in:
+In my adult life, I've transferred old abilities to new practical applications, working professionally in:
 
 💼 Broadcast operations/engineering
 💼 Publishing/writing/editing
