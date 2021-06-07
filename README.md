@@ -20,7 +20,7 @@ Since embarking on my WebDev journey, I've used:
 ⭐️ CSS
 ⭐️ HTML
 
-## Want to know more? Check out my mullet:
+### Want to know more? Check out my mullet:
 
 🌎 Business in the front, [LinkedIn](https://www.linkedin.com/in/domenicscarcella) . . . 
 🌎 Party in the back, [The Mighty Book of Face](https://www.facebook.com/dom.scarcella)
