@@ -6,12 +6,12 @@ As a creative thinker, I'm more adaptive than inventive:  I tinker with things a
 
 In my adult life, I've transferred old abilities to new practical applications, working professionally in:
 
-💼 Broadcast operations/engineering
-💼 Publishing/writing/editing
-💼 Indie music
-💼 Public speaking/event hosting
+💼 Broadcast Operations / Engineering
+💼 Publishing / Writing / Editing
+💼 Indie Music
+💼 Public Speaking / Event Hosting
 💼 Education
-💼 Social services
+💼 Social Services
 
 Since embarking on my WebDev journey, I've used:
 
