@@ -16,7 +16,7 @@ In my adult life, I've transferred old abilities to new practical applications, 
 Since embarking on my WebDev journey, I've used:
 
 ⭐️ Python
-⭐️ JavaScript/React/Node.js
+⭐️ JavaScript / React / Node.js
 ⭐️ CSS
 ⭐️ HTML
 
