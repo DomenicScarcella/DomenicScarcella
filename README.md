@@ -20,8 +20,8 @@ Since embarking on my WebDev journey, I've used:
 ⭐️ CSS
 ⭐️ HTML
 
-Find more about me at:
+## Want to know more? Check out my mullet:
 
-🌎 [LinkedIn](https://www.linkedin.com/in/domenicscarcella/)
-
+🌎 Business in the front . . . [LinkedIn](https://www.linkedin.com/in/domenicscarcella)
+🌎 Party in the back . . . [The Mighty Book of Face](https://www.facebook.com/dom.scarcella)
 
