@@ -22,6 +22,6 @@ Since embarking on my WebDev journey, I've used:
 
 ## Want to know more? Check out my mullet:
 
-🌎 Business in the front . . . [LinkedIn](https://www.linkedin.com/in/domenicscarcella)
-🌎 Party in the back . . . [The Mighty Book of Face](https://www.facebook.com/dom.scarcella)
+🌎 Business in the front, [LinkedIn](https://www.linkedin.com/in/domenicscarcella) . . . 
+🌎 Party in the back, [The Mighty Book of Face](https://www.facebook.com/dom.scarcella)
 
