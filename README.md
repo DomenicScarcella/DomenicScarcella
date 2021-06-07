@@ -1,4 +1,4 @@
-# Hello 👋🏾 👩🏾‍💻
+# Hello 👋
 
 Howdy, I'm Dom!  I was born in and grew up in the New York City area, but I say "howdy" and "y'all" (go figure, right?) 😄
 
@@ -15,15 +15,13 @@ I've worked professionally in:
 
 Since embarking on my WebDev journey, I've used:
 
-* Python
-* JavaScript/React/Node.js
-* CSS
-* HTML
+⭐️ Python
+⭐️ JavaScript/React/Node.js
+⭐️ CSS
+⭐️ HTML
 
-🌎 <a href="https://www.linkedin.com/in/domenicscarcella/">LinkedIn</a> 
+Find more about me at:
 
-
----
-⭐️ From [DomenicScarcella](https://github.com/DomenicScarcella)
+🌎 [LinkedIn](https://www.linkedin.com/in/domenicscarcella/)
 
 
