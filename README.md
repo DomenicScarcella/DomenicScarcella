@@ -1,4 +1,4 @@
-# I'm old enough to be your cousin.
+# I'm old enough to be your cousin
 
 My name is Dom, and I grew up in the New York City area, but I say "howdy" and "y'all" (go figure, right?) 😄
 
