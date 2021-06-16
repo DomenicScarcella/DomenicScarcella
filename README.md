@@ -1,6 +1,6 @@
 # I'm old enough to be your cousin
 
-My name is Dom, and I grew up in the New York City area, but I say "howdy" and "y'all" (go figure, right?) 😄
+I grew up in the New York City area, but I say "howdy" and "y'all" (go figure, right?) 😄
 
 As a creative thinker, I'm more adaptive than inventive:  I tinker with things and repurpose them, rather than starting from a blank slate.
 
