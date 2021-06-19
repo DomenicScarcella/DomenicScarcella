@@ -20,7 +20,7 @@ Since embarking on my WebDev journey, I've used:
 ⭐️ CSS
 ⭐️ HTML
 
-CodeSignal General Coding Assessment (GCA): [799](https://app.codesignal.com/coding-report/tWqCuPjBM6DsiyYsT-TP9BTLhDkgt3ZJp6PtgNmv5H)
+### CodeSignal General Coding Assessment (GCA): [799](https://app.codesignal.com/coding-report/tWqCuPjBM6DsiyYsT-TP9BTLhDkgt3ZJp6PtgNmv5H)
 
 ### Want to know more? Check out my 'mullet':
 
