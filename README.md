@@ -21,7 +21,9 @@ Since embarking on my WebDev journey, I've used:
 ⭐️ HTML
 
 ![image](https://user-images.githubusercontent.com/76451364/122848473-92f0fa80-d2d7-11eb-8fc2-2eaa89ad7186.png)
+
 CodeSignal General Coding Assessment (GCA): [799](https://app.codesignal.com/coding-report/tWqCuPjBM6DsiyYsT-TP9BTLhDkgt3ZJp6PtgNmv5H)
+
 ![image](https://user-images.githubusercontent.com/76451364/122848473-92f0fa80-d2d7-11eb-8fc2-2eaa89ad7186.png)
 
 ### Want to know more? Check out my 'mullet':
