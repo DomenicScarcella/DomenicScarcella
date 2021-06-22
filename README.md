@@ -20,7 +20,7 @@ Since embarking on my WebDev journey, I've used:
 ⭐️ CSS
 ⭐️ HTML
 
-![image](https://user-images.githubusercontent.com/76451364/122858356-25999580-d2e8-11eb-84d8-c81c0915007b.png) ### General Coding Assessment (GCA): [799](https://app.codesignal.com/coding-report/tWqCuPjBM6DsiyYsT-TP9BTLhDkgt3ZJp6PtgNmv5H)
+### ![image](https://user-images.githubusercontent.com/76451364/122858356-25999580-d2e8-11eb-84d8-c81c0915007b.png) General Coding Assessment (GCA): [799](https://app.codesignal.com/coding-report/tWqCuPjBM6DsiyYsT-TP9BTLhDkgt3ZJp6PtgNmv5H)
 
 ### Want to know more? Check out my 'mullet':
 
