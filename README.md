@@ -6,7 +6,9 @@ As a creative thinker, I'm more adaptive than inventive:  I tinker with things a
 
 And, yes, that includes tinkering with and repurposing ME and my skill set.  In my adult life, I've brought old abilities to new practical applications, working professionally in:
 
-💼 Broadcast Operations / Engineering
+💼 Software Development Engineering
+
+💼 Broadcast Operations & Engineering
 
 💼 Publishing / Writing / Editing
 
