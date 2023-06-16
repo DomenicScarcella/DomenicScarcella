@@ -35,9 +35,3 @@ Since embarking on my WebDev journey, I've used:
 ⭐️ Salesforce
 
 ### ![image](https://user-images.githubusercontent.com/76451364/135887881-9ae0f371-8422-4fc1-ba9d-268e0276f0ca.png) General Coding Assessment (GCA): [817](https://app.codesignal.com/coding-report/tWqCuPjBM6DsiyYsT-TP9BTLhDkgt3ZJp6PtgNmv5H)
-
-### Want to know more? Check out my 'mullet':
-
-🌎 Business in the front ([LinkedIn](https://www.linkedin.com/in/domenicscarcella)) . . . 
-🌎 Party in the back ([The Mighty Book of Face](https://www.facebook.com/dom.scarcella))
-
