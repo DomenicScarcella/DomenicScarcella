@@ -36,4 +36,4 @@ Since embarking on my WebDev journey, I've used:
 
 ⭐️ Salesforce
 
-### ![image](https://user-images.githubusercontent.com/76451364/135887881-9ae0f371-8422-4fc1-ba9d-268e0276f0ca.png) [General Coding Assessment (GCA)](https://app.codesignal.com/coding-report/tWqCuPjBM6DsiyYsT-TP9BTLhDkgt3ZJp6PtgNmv5H)
+### ![image](https://user-images.githubusercontent.com/76451364/135887881-9ae0f371-8422-4fc1-ba9d-268e0276f0ca.png) [General Coding Assessment (GCA)](https://app.codesignal.com/evaluation-result/QSPy9X8ZspuL2G8hB)
