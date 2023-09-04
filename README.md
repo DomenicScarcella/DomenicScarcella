@@ -10,6 +10,8 @@ And, yes, that includes tinkering with and repurposing ME and my skill set.  In 
 
 💼 Broadcast Operations & Engineering
 
+💼 Sports & Entertainment Podcasting
+
 💼 Publishing / Writing / Editing / Design
 
 💼 Indie Music
